@@ -2,5 +2,7 @@
 
 Des dessins faits mains, de zéro, en ascii.
 
-## Dessins (dans l'ordre de création) :
- - 
+## Dessins (par dossier, dans l'ordre de création) :
+ - Logo = 
+ - Objets = horloge
+ - Paysage = 
