@@ -1,4 +1,4 @@
-#ASCII ART
+# ASCII ART
 
 Des dessins faits mains, de zéro, en ascii.
 
