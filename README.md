@@ -1,6 +1,6 @@
-### ASCII ART
+#ASCII ART
 
 Des dessins faits mains, de zéro, en ascii.
 
-Dessins (dans l'ordre de création) :
+## Dessins (dans l'ordre de création) :
  - 
